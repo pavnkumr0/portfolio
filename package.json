@@ -1,9 +1,9 @@
 {
   "name": "Pavan Kumar G",
-  "private": true,
+  "private": false,
   "version": "0.1.0",
   "type": "module",
-  "homepage": "https://pavnkumr0.github.io/pavnkumr0.github.io ",
+  "homepage": "https://pavnkumr0.github.io/portfolio ",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
